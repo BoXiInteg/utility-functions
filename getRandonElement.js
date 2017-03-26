@@ -1,3 +1,3 @@
 function getRandomElement(arr){
-   return arr[Math.random() * arr.length);
+   return arr[Math.random() * arr.length)];
 }
