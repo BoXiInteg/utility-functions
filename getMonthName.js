@@ -5,4 +5,6 @@ funtion getMonthName(place){
      'march',
      'april',
      'may',
+     'june',
+     'july',	   
 }
